@@ -12,5 +12,4 @@ fields:
   name: sidebar_label
   label: sidebar_label
 pages:
-- docs/политика-по-отпускам.md
 - instructions/инструкция-по-обращению-с-кофемашиной.md
